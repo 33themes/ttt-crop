@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TTT Crop v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-30 18:17:30+0000\n"
+"Last-Translator: admin <webmaster@33themes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class/TTTCrop_Admin.php:27
+#@ ttt-crop
+msgid "Thumbnails"
+msgstr ""
+
+#: class/TTTCrop_Admin.php:30
+#: class/TTTCrop_Admin.php:49
+#@ ttt-crop
+msgid "Crop Editor"
+msgstr ""
+
+#: class/TTTCrop_Admin.php:77
+#@ ttt-crop
+msgid "Crop editor"
+msgstr ""
+
+#: template/admin/activation.inc.php:2
+#@ ttt-crop
+msgid ""
+"\n"
+"\t<span class=\"ttt-title\">Ready to Edit your Thumbnails Crops!!, No setttings or code?, YES! just use it :)</span></br>\n"
+"\t<p><strong>33Plugins Crop Tool is installed.</strong> Now you can edit the crop area of all the thumbnails sizes used in your WordPress project.</br>\n"
+"\tTo see the sizes in this project go to <a href=\"#\">Settings -> Media.</a></p>\n"
+"\t<p><span class=\"ttt-highlight\">How to use?, check out this <a href=\"#\">video tutorial</a> (1:14 minutes).</span></p>\n"
+"\t"
+msgstr ""
+
+#: template/admin/iframe.inc.php:109
+#@ ttt-crop
+msgid "Size"
+msgstr ""
+
+#: template/admin/iframe.inc.php:111
+#@ ttt-crop
+msgid "It is only for resize and zoom, not crop"
+msgstr ""
+

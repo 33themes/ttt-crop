@@ -1,0 +1,41 @@
+#ttt-crop-frame {
+	position: absolute;
+	background: white;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	z-index: 99999999;
+}
+#ttt-crop-frame .media-frame-title {
+	left: 0;
+	border-bottom: 1px solid #dfdfdf;
+	box-shadow: 0 4px 4px -4px rgba(0,0,0,0.1);	
+}
+#ttt-crop-frame .frame {
+	background: #fff;
+	border: 0px;
+	top: 45px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+#ttt-crop-frame1 {
+	border: 0px;
+	height: 99%;
+	width: 100%;
+}
+.tttcrop-messages span.ttt-title {
+	font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1;
+	text-shadow: #fff 0 1px 0;
+}
+.tttcrop-messages span.ttt-highlight {
+	padding: 5px 0 15px;
+	color: #000;
+	font-size: 14px;
+	line-height: 1.4em;	
+}

@@ -1,0 +1,92 @@
+.jcrop-holder {
+	margin: 0 auto;
+}
+#tttcrop .media-frame-toolbar {
+	left: 0;
+}
+#tttcrop .media-frame-toolbar, #tttcrop .media-toolbar, #tttcrop .media-selection, #tttcrop .media-selection .attachments, #tttcrop .attachment-preview {
+	height: 160px;
+}
+#tttcrop .attachment {
+	width: 100px;
+	margin: 10px 5px;
+}
+#tttcrop .count {
+	margin-top: 40px;
+}
+#tttcrop .media-toolbar-primary .button.submit {
+	margin-top: 50px;
+}
+#editor {
+	display: block;
+	top: 20px;
+	left: 0px;
+	right: 0px;
+	bottom: 160px;
+	position: absolute;
+}
+#sizes,
+#editor {
+	display: inline-block;	
+}
+#sizes .size {
+	vertical-align: middle;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+#sizes .size .info {
+	display: none;
+}
+#sizes .size .background {
+	width: 100px;
+	height: 100px;
+	background: url('http://ayudasp.com/images/loading.gif') no-repeat 50% 50%;
+	background-size: 10% 10%;
+	position: absolute;
+	bottom:0px;
+}
+#sizes .size .background span {
+	vertical-align: middle;
+}
+#sizes .size .background .img {
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-color: transparent;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+#sizes .pixel {
+	display: block;
+}
+#editor .col {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+	float: left;
+	position: relative;
+	vertical-align: middle;
+}
+#tttcrop .preview-area {
+	background: #000;
+	margin: 0 auto;
+}
+.media-selection {
+	right: 180px;
+}
+.media-selection .selection-view {
+	overflow-x: auto;
+	overflow-y: hidden;
+	width: 90%;
+	height: 100%;
+	position: relative;
+}
+#sizes {
+	overflow-x: auto;
+	overflow-y: hidden;
+}
