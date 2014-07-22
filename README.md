@@ -2,13 +2,14 @@
 TTT Crop
 ========
 
-Contributors: 33themes, gabrielperezs, lonchbox, tomasog
-Tags: images, thumbnail, media editor, edit media, image sizes
-Requires at least: 3.7
-Tested up to: 3.8.1
-Stable tag: 
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+* Contributors: 33themes, gabrielperezs, lonchbox, tomasog
+* Tags: images, thumbnail, media editor, edit media, image sizes
+* Requires at least: 3.7
+* Tested up to: 3.8.1
+* Stable tag: 
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+
 
 Edit all generated thumbnails images crop area in a simple way.
 
