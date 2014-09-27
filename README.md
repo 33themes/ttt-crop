@@ -30,6 +30,24 @@ Features
 * "Crop Editor" Button inside file details in media manager.
 * *GEM* Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
 
+
+Screenshots
+===========
+
+Choose the image size and crop the image in the area you want.
+
+![How it works](/screenshots/ttt-crop-screen1.png)
+
+Save the image ones is croped
+
+![Save](/screenshots/ttt-crop-screen2.png)
+
+Find the links to open the tool
+
+![Edit image](/screenshots/ttt-crop-screen3.png)
+
+![Edit featured image](/screenshots/ttt-crop-screen4.png)
+
 Hacks
 =====
 
