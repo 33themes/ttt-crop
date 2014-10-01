@@ -24,7 +24,14 @@ This plugin dones´t create new file or folder, when it save the new crop area r
 * "Crop Editor" Button inside file details in media manager.
 * **GEM** Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
 
-= Hacks ==
+== Screenshots ==
+
+1. ttt-crop-screen1.png
+1. ttt-crop-screen2.png
+1. ttt-crop-screen3.png
+1. ttt-crop-screen4.png
+
+== Hacks ==
 
 **Remove sizes from the editor**
 
