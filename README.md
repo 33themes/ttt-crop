@@ -36,17 +36,17 @@ Screenshots
 
 Choose the image size and crop the image in the area you want.
 
-![How it works](/assets/screenshot-1.png)
+![How it works](/screenshot-1.png)
 
 Save the image ones is croped
 
-![Save](/assets/screenshot-2.png)
+![Save](/screenshot-2.png)
 
 Find the links to open the tool
 
-![Edit image](/assets/screenshot-3.png)
+![Edit image](/screenshot-3.png)
 
-![Edit featured image](/assets/screenshot-4.png)
+![Edit featured image](/screenshot-4.png)
 
 Hacks
 =====
