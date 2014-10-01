@@ -36,17 +36,17 @@ Screenshots
 
 Choose the image size and crop the image in the area you want.
 
-![How it works](/assets/ttt-crop-screen1.png)
+![How it works](/assets/screenshot-1.png)
 
 Save the image ones is croped
 
-![Save](/assets/ttt-crop-screen2.png)
+![Save](/assets/screenshot-2.png)
 
 Find the links to open the tool
 
-![Edit image](/assets/ttt-crop-screen3.png)
+![Edit image](/assets/screenshot-3.png)
 
-![Edit featured image](/assets/ttt-crop-screen4.png)
+![Edit featured image](/assets/screenshot-4.png)
 
 Hacks
 =====

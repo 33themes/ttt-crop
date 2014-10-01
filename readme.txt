@@ -26,10 +26,10 @@ This plugin dones´t create new file or folder, when it save the new crop area r
 
 == Screenshots ==
 
-1. ttt-crop-screen1.png
-1. ttt-crop-screen2.png
-1. ttt-crop-screen3.png
-1. ttt-crop-screen4.png
+1. Choose the image size and crop the image in the area you want.
+2. Save the image ones is croped
+3. Find the links to open the tool 
+4. In featured
 
 == Hacks ==
 
