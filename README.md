@@ -21,6 +21,12 @@ This is an easy and fast way to crop any uploaded image in your wordpress. No mo
 
 This plugin dones´t create new file or folder, when it save the new crop area rewrite the original thumbnail file, this means will not break the theme design :)
 
+Available in WordPress.org
+==========================
+
+Yes, it is, here: https://wordpress.org/plugins/ttt-crop/
+
+
 Features
 ========
 
