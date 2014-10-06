@@ -24,6 +24,16 @@ This plugin dones´t create new file or folder, when it save the new crop area r
 * "Crop Editor" Button inside file details in media manager.
 * **GEM** Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
 
+= Recomendations =
+
+If you are a developer and need to rebuild the thumbnails we recommend use this plugins http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it help you to do it one at a time. IMPORTANT: Remember that rebuild thumb will rewrite the thumbnail you croped before with the TTT Crop plugin.
+
+= Contributions =
+
+You can send issues, ideas, etc.. to github the repo https://github.com/33themes/ttt-crop
+
+
+
 == Screenshots ==
 
 1. Choose the image size and crop the image in the area you want.
@@ -60,11 +70,6 @@ function custom_tttcrop_image_sizes( $sizes ) {
 
     return $new;
 }`
-
-
-== Recomendations ==
-
-If you are a developer and need to rebuild the thumbnails we recommend use this plugins http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it help you to do it one at a time. IMPORTANT: Remember that rebuild thumb will rewrite the thumbnail you croped before with the TTT Crop plugin.
 
 == Installation ==
 
