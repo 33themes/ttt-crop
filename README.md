@@ -42,18 +42,18 @@ Screenshots
 
 Typical problem with cropped image.
 
-![How it works](/screenshots/screenshot-1.jpg)
+![How it works](/screenshots/screenshot-1.png)
 
 Go to medias and open the images, and click in TTT Crop.
 
-![Save](/screenshots/screenshot-2.jpg)
+![Save](/screenshots/screenshot-2.png)
 
 Choose the image you need, and crop in the area you want.
 
-![Edit image](/screenshots/screenshot-3.jpg)
+![Edit image](/screenshots/screenshot-3.png)
 
 You can crop from featured box
-![Edit featured image](/screenshots/screenshot-4.jpg)
+![Edit featured image](/screenshots/screenshot-4.png)
 
 Hacks
 =====
