@@ -1,9 +1,9 @@
 === TTT Crop ===
 Contributors: 33themes, gabrielperezs, lonchbox, tomasog
 Tags: images, thumbnail, media editor, edit media, image sizes
-Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 0.1.1 
+Requires at least: 3.7
+Tested up to: 4.1.2
+Stable tag: 0.1.2 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
