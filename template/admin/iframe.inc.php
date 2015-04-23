@@ -22,6 +22,17 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
+
+	<script type="text/javascript">
+	addLoadEvent = function(func){if(typeof jQuery!="undefined")jQuery(document).ready(func);else if(typeof wpOnload!='function'){wpOnload=func;}else{var oldonload=wpOnload;wpOnload=function(){oldonload();func();}}};
+	var ajaxurl = '/wp-admin/admin-ajax.php',
+		pagenow = 'ttt-crop',
+		typenow = '',
+		adminpage = 'ttt-crop',
+		thousandsSeparator = '.',
+		decimalPoint = ',',
+		isRtl = 0;
+	</script>
 	<?php
 
 	global $title, $hook_suffix, $current_screen, $wp_locale, $pagenow, $wp_version,
