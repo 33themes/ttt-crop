@@ -3,7 +3,7 @@
 Plugin Name: TTT Crop
 Plugin URI: https://github.com/33themes/ttt-crop
 Description: Simple and quickly image editor inline
-Version: 0.1.1
+Version: 0.1.3
 Author: 33 Themes UG i.Gr.
 Author URI: http://www.33themes.com
 */
