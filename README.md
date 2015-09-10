@@ -34,15 +34,16 @@ Yes, you can find it here:: https://wordpress.org/plugins/ttt-crop/
 
 Go to Media, open the image and click on TTT Crop.
 
-![Save](/screenshots/screenshot-2.png)
+![Edit image](/screenshots/screenshot-3.png)
 
 Choose the image size you want and crop it.
 
-![Edit image](/screenshots/screenshot-3.png)
+![Save](/screenshots/screenshot-2.png)
 
 ![How it works](/screenshots/screenshot-1.png)
 
 You also can crop from featured box
+
 ![Edit featured image](/screenshots/screenshot-4.png)
 
 Hacks
