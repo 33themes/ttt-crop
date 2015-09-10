@@ -46,12 +46,11 @@ You also can crop from featured box
 
 ![Edit featured image](/screenshots/screenshot-4.png)
 
-Hacks
-=====
+## Hacks
 
-Just copy&paste this code into your functions.php
+Just copy&paste this code into your functions.php.
 
-*Remove sizes from the editor*
+**Remove sizes from the editor**
 
 You can remove some sizes from the TTT Crop thumbnail editor with this code in your functions.php. 
 
@@ -66,7 +65,7 @@ Example code:
     }
 ```
 
-*Set human names for the thumbnail names*
+**Set human friendly names for the thumbnails**
 
 For example, the name "author-thumbnail" could be "Author Image" 
 
@@ -86,13 +85,13 @@ For example, the name "author-thumbnail" could be "Author Image"
     add_filter('ttt_crop_human_name','local_ttt_crop_human_name');
 ```
 
-*Show some of the sizes of one post_type*
+**Show only some sizes of one post_type**
 
-In this example you existe the custom post type "author" and two image sizes
+In this example you have the custom post type "author" and two image sizes
 for the author content (single, archive, etc..). And you want to show only this
 two image sizes on the crop screen. 
 
-The idea is make more simple for the end user, don't show all the sizes, only
+The idea is make it more simple for the end user, showing only
 the sizes the user need.
 
 ```php
@@ -120,17 +119,15 @@ the sizes the user need.
 ```
 
 
-Recomendations
-==============
+## Recomendations
 
-If you are a developer and need to rebuild the thumbnails we recommend use this plugins http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it help you to do it one at a time. IMPORTANT: Remember that rebuild thumb will rewrite the thumbnail you croped before with the TTT Crop plugin.
+If you are a developer and you need to rebuild the thumbnails we recommend use this plugin: http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it helps you to do it one at a time. 
 
-Installation
-============
+IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropped with the TTT Crop plugin.
+
+## Installation
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
-1. Upload `ttt-crop` folder to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload `ttt-crop` folder to the `/wp-content/plugins/` directory.
+1. Activate the plugin through the 'Plugins' menu in WordPress.
