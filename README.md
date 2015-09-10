@@ -11,46 +11,38 @@
 
 Select any thumbnail size from your theme and crop it in a simple way.
 
+## Description
 
-Description
-===========
+This is an easy and fast way to crop any uploaded image in your wordpress. No more complicated graphical editors, photos of people without head or products with wrong view. Select the thumbnail, edit the crop area and save a new thumbnail image.
 
-This is an easy and fast way to crop any uploaded image in your wordpress. No more complicate graphical editors, photos of people without head or products with wrong view. Select the thumbnail, edit the crop area and save a new thumbnail image.
+This plugin doesn't create any new file or folder, when it saves the new crop area it rewrites the original thumbnail file, this means it doesn't affect the theme design :)
 
-This plugin dones´t create new file or folder, when it save the new crop area rewrite the original thumbnail file, this means will not break the theme design :)
+## Available in WordPress.org
 
-Available in WordPress.org
-==========================
-
-Yes, it is, here: https://wordpress.org/plugins/ttt-crop/
+Yes, you can find it here:: https://wordpress.org/plugins/ttt-crop/
 
 
-Features
-========
+## Features
 
-* The plugin automatically use all images created with the function _add_image_size_ even if they are hard crop or proportional. More info in http://codex.wordpress.org/Function_Reference/add_image_size#Crop_Mode
+* The plugin automatically use all images created with the function _add_image_size_ even if they are hard cropped or proportional. More info in http://codex.wordpress.org/Function_Reference/add_image_size#Crop_Mode
 * "Crop Editor" quick link in media list.
 * "Crop Editor" link in featured image widget.
-* "Crop Editor" Button inside file details in media manager.
-* *GEM* Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
+* "Crop Editor" button inside file details in media manager.
 
 
-Screenshots
-===========
+## Screenshots
 
-Typical problem with cropped image.
-
-![How it works](/screenshots/screenshot-1.png)
-
-Go to medias and open the images, and click in TTT Crop.
+Go to Media, open the image and click on TTT Crop.
 
 ![Save](/screenshots/screenshot-2.png)
 
-Choose the image you need, and crop in the area you want.
+Choose the image size you want and crop it.
 
 ![Edit image](/screenshots/screenshot-3.png)
 
-You can crop from featured box
+![How it works](/screenshots/screenshot-1.png)
+
+You also can crop from featured box
 ![Edit featured image](/screenshots/screenshot-4.png)
 
 Hacks
