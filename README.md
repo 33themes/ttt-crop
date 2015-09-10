@@ -32,7 +32,7 @@ Yes, you can find it here:: https://wordpress.org/plugins/ttt-crop/
 
 ## Screenshots
 
-Go to Media, open the image and click on TTT Crop.
+Go to Media, open the image and click on Crop Editor.
 
 ![Edit image](/screenshots/screenshot-3.png)
 
