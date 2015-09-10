@@ -1,4 +1,4 @@
-=== TTT Crop ===
+# TTT Crop
 Contributors: 33themes, gabrielperezs, lonchbox, tomasog
 Tags: images, thumbnail, media editor, edit media, image sizes
 Requires at least: 3.7
@@ -7,14 +7,14 @@ Stable tag: 0.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
-Edit all generated thumbnails images crop area in a simple way.
+Select any thumbnail size from your theme and crop it in a simple way.
 
 
-== Description ==
+## Description
 
-This is an easy and fast way to crop any uploaded image in your wordpress. No more complicate graphical editors, photos of people without head or products with wrong view. Select the thumbnail, edit the crop area and save a new thumbnail image.
+This is an easy and fast way to crop any uploaded image in your wordpress. No more complicated graphical editors, photos of people without head or products with wrong view. Select the thumbnail, edit the crop area and save a new thumbnail image.
 
-This plugin dones´t create new file or folder, when it save the new crop area rewrite the original thumbnail file, this means will not break the theme design :)
+This plugin doesn't create any new file or folder, when it saves the new crop area it rewrites the original thumbnail file, this means it doesn't affect the theme design :)
 
 = Features =
 
