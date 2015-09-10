@@ -30,20 +30,14 @@ This plugin doesn't create any new file or folder, when it saves the new crop ar
 
 If you are a developer and you need to rebuild the thumbnails we recommend use this plugin: http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it helps you to do it one at a time. 
 
-IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails croped with the TTT Crop plugin.
-
-= Contributions =
-
-You can send issues, ideas, etc.. to github the repo https://github.com/33themes/ttt-crop
+IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropped with the TTT Crop plugin.
 
 
+## How to use it
 
-== Screenshots ==
+1. Select an image, open the image editor and click on the Crop Editor button.
+2. Choose the image size you want and crop it.
 
-1. Typical problem with cropped image.
-2. Go to medias and open the images, and click in TTT Crop.
-3. Choose the image you need, and crop in the area you want.
-4. You can crop from featured box
 
 == Hacks ==
 
@@ -61,8 +55,6 @@ function custom_tttcrop_image_sizes( $sizes ) {
 
 This hack remove the thumbnail from TTT-Crop Editor tool.
 
-
-
 **Remove thumbnails sizes from the editor for an specific post type**
 
 `function custom_tttcrop_image_sizes_CPT($sizes) {
@@ -78,8 +70,6 @@ This hack remove the thumbnail from TTT-Crop Editor tool.
 }`
 
 Because we use only two or three thumbnails in a Custom Post Type.
-
-
 
 **Change the name of the image to human names**
 
@@ -99,17 +89,9 @@ add_filter('ttt_crop_human_name','local_ttt_crop_human_name');`
 This will change the name of the image inside the tooltip when it is selected.
 
 
-
-
 == Installation ==
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
 1. Upload `ttt-crop` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-
-== Contributors ==
-
-Follow us on https://github.com/33themes/ttt-crop
