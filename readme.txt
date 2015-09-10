@@ -16,17 +16,21 @@ This is an easy and fast way to crop any uploaded image in your wordpress. No mo
 
 This plugin doesn't create any new file or folder, when it saves the new crop area it rewrites the original thumbnail file, this means it doesn't affect the theme design :)
 
-= Features =
+## Features
 
-* The plugin automatically use all images created with the function _add_image_size_ even if they are hard crop or proportional. More info in http://codex.wordpress.org/Function_Reference/add_image_size#Crop_Mode
+* The plugin automatically use all images created with the function _add_image_size_ even if they are hard cropped or proportional. More info in http://codex.wordpress.org/Function_Reference/add_image_size#Crop_Mode
 * "Crop Editor" quick link in media list.
 * "Crop Editor" link in featured image widget.
-* "Crop Editor" Button inside file details in media manager.
+* "Crop Editor" button inside file details in media manager.
+
+???
 * **GEM** Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
+???
+## Recomendations
 
-= Recomendations =
+If you are a developer and you need to rebuild the thumbnails we recommend use this plugin: http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it helps you to do it one at a time. 
 
-If you are a developer and need to rebuild the thumbnails we recommend use this plugins http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it help you to do it one at a time. IMPORTANT: Remember that rebuild thumb will rewrite the thumbnail you croped before with the TTT Crop plugin.
+IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails croped with the TTT Crop plugin.
 
 = Contributions =
 
