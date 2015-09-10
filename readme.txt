@@ -1,4 +1,5 @@
 # TTT Crop
+---
 Contributors: 33themes, gabrielperezs, lonchbox, tomasog
 Tags: images, thumbnail, media editor, edit media, image sizes
 Requires at least: 3.7
@@ -37,7 +38,7 @@ IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropp
 2. Choose the image size you want and crop it.
 
 
-== Hacks ==
+## Hacks
 
 Just copy&paste this code into your functions.php
 
@@ -83,7 +84,7 @@ add_filter('ttt_crop_human_name','local_ttt_crop_human_name');`
 This will change the name of the image inside the tooltip when it is selected.
 
 
-== Installation ==
+## Installation
 
 This section describes how to install the plugin and get it working.
 
