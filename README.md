@@ -85,7 +85,7 @@ For example, the name "author-thumbnail" could be "Author Image"
     add_filter('ttt_crop_human_name','local_ttt_crop_human_name');
 ```
 
-**Show only some sizes of one post_type**
+**Show only some sizes of a post_type**
 
 In this example you have the custom post type "author" and two image sizes
 for the author content (single, archive, etc..). And you want to show only this
