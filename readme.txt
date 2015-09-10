@@ -23,9 +23,7 @@ This plugin doesn't create any new file or folder, when it saves the new crop ar
 * "Crop Editor" link in featured image widget.
 * "Crop Editor" button inside file details in media manager.
 
-???
-* **GEM** Now when you add an image into the editor you to choose and insert any thumbnail size your theme or plugin register into the system.
-???
+
 ## Recomendations
 
 If you are a developer and you need to rebuild the thumbnails we recommend use this plugin: http://wordpress.org/plugins/ajax-thumbnail-rebuild/ it helps you to do it one at a time. 
@@ -53,8 +51,6 @@ function custom_tttcrop_image_sizes( $sizes ) {
 }
 ?>`
 
-This hack remove the thumbnail from TTT-Crop Editor tool.
-
 **Remove thumbnails sizes from the editor for an specific post type**
 
 `function custom_tttcrop_image_sizes_CPT($sizes) {
@@ -69,9 +65,7 @@ This hack remove the thumbnail from TTT-Crop Editor tool.
     return $new;
 }`
 
-Because we use only two or three thumbnails in a Custom Post Type.
-
-**Change the name of the image to human names**
+**Change the name of the image to human friendly names**
 
 `function local_ttt_crop_human_name($name) {
     switch( $name ) {
