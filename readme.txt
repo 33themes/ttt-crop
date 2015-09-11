@@ -1,6 +1,6 @@
 # TTT Crop
 ---
-Contributors: 33themes, gabrielperezs, lonchbox, tomasog
+Contributors: 33themes, gabrielperezs, lonchbox, tomasog, 11bits
 Tags: images, thumbnail, media editor, edit media, image sizes
 Requires at least: 3.7
 Tested up to: 4.1.2
