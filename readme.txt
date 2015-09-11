@@ -41,17 +41,17 @@ IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropp
 
 Go to Media, open the image and click on Crop Editor.
 
-![Edit image](/screenshots/screenshot-3.png)
+![Edit image](assets/screenshot-3.png)
 
 Choose the image size you want and crop it.
 
-![Save](/screenshots/screenshot-2.png)
+![Save](assets/screenshot-2.png)
 
-![How it works](/screenshots/screenshot-1.png)
+![How it works](assets/screenshot-1.png)
 
 You also can crop from featured box
 
-![Edit featured image](/screenshots/screenshot-4.png)
+![Edit featured image](assets/screenshot-4.png)
 
 ## Installation
 
