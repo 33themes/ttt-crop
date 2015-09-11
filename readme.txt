@@ -38,8 +38,8 @@ IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropp
 ## Screenshots
 
 1. Go to Media, open the image and click on Crop Editor.
-2. Choose the image size you want and crop it.
-3. You also can crop from featured box.
+2. Choose the image size you want to crop.
+3. Crop it and click on Update Thumbnail.
 
 ## Installation
 
