@@ -24,6 +24,10 @@ This plugin doesn't create any new file or folder, when it saves the new crop ar
 * "Crop Editor" link in featured image widget.
 * "Crop Editor" button inside file details in media manager.
 
+### How to use it
+
+1. Select an image, open the image editor and click on the Crop Editor button.
+2. Choose the image size you want and crop it.
 
 ### Recomendations
 
@@ -31,27 +35,11 @@ If you are a developer and you need to rebuild the thumbnails we recommend use t
 
 IMPORTANT: Notice that rebuilding thumbnails will overwrite the thumbnails cropped with the TTT Crop plugin.
 
-
-### How to use it
-
-1. Select an image, open the image editor and click on the Crop Editor button.
-2. Choose the image size you want and crop it.
-
 ## Screenshots
 
-Go to Media, open the image and click on Crop Editor.
-
-![Edit image](assets/screenshot-3.png)
-
-Choose the image size you want and crop it.
-
-![Save](assets/screenshot-2.png)
-
-![How it works](assets/screenshot-1.png)
-
-You also can crop from featured box
-
-![Edit featured image](assets/screenshot-4.png)
+1. Go to Media, open the image and click on Crop Editor.
+2. Choose the image size you want and crop it.
+3. You also can crop from featured box.
 
 ## Installation
 
