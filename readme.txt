@@ -3,8 +3,8 @@
 Contributors: 33themes, gabrielperezs, lonchbox, tomasog, 11bits
 Tags: images, thumbnail, media editor, edit media, image sizes
 Requires at least: 3.7
-Tested up to: 4.1.2
-Stable tag: 0.1.3
+Tested up to: 4.7.3
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -23,6 +23,9 @@ This plugin doesn't create any new file or folder, when it saves the new crop ar
 * "Crop Editor" quick link in media list.
 * "Crop Editor" link in featured image widget.
 * "Crop Editor" button inside file details in media manager.
+
+[youtube https://www.youtube.com/watch?v=25dKFOV8toY]
+(Thanks to: https://software-lupe.de/review/ttt-crop-thumbnails-auf-mass/)
 
 ### How to use it
 

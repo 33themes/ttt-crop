@@ -4,8 +4,8 @@
 * Contributors: 33themes, gabrielperezs, lonchbox, tomasog, 11bits
 * Tags: images, thumbnail, media editor, edit media, image sizes
 * Requires at least: 3.7
-* Tested up to: 4.1.2
-* Stable tag: 0.1.3
+* Tested up to: 4.7.3
+* Stable tag: 1.0
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html 
 
@@ -17,10 +17,14 @@ This is an easy and fast way to crop any uploaded image in your wordpress. No mo
 
 This plugin doesn't create any new file or folder, when it saves the new crop area it rewrites the original thumbnail file, this means it doesn't affect the theme design :)
 
+
 ## Available in WordPress.org
 
 Yes, you can find it here:: https://wordpress.org/plugins/ttt-crop/
 
+## Contribute
+
+If you have any bug or code improvements, please send a pull request to: https://github.com/33themes/ttt-crop
 
 ## Features
 
@@ -30,7 +34,14 @@ Yes, you can find it here:: https://wordpress.org/plugins/ttt-crop/
 * "Crop Editor" button inside file details in media manager.
 
 
-## Screenshots
+## Screenshots and video
+
+
+Video made by a happy user :)  
+(https://software-lupe.de/review/ttt-crop-thumbnails-auf-mass/)
+
+[![Nice video made by a happy user :)](https://img.youtube.com/vi/25dKFOV8toY/default.jpg)](https://www.youtube.com/watch?v=25dKFOV8toY)
+
 
 Go to Media, open the image and click on Crop Editor.
 
